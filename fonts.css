@@ -21,3 +21,10 @@
   font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'pt_serifregular';
+    src: url('fonts/ptserif-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

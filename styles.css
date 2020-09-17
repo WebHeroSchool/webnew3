@@ -72,7 +72,7 @@ transition: opacity .5s;
 }
 .main__title{
   margin: 0 0 40px 0;
-  font: bold 50px/66px pt_serifregular,arial,helvetica,sans-serif;
+  font: bold 50px/66px 'PT Serif',serif;
 }
 .main__subtitle{
   margin: 0 0 41px 0;
